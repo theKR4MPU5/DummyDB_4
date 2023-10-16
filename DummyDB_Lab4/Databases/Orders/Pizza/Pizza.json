@@ -1,0 +1,22 @@
+{
+  "name": "Pizza",
+  "columns": [
+    {
+      "name": "№",
+      "type": "int"
+    },
+    {
+      "name": "Заказ",
+      "type": "string"
+    },
+    {
+      "name": "Пицца",
+      "type": "string"
+    },
+    {
+      "name": "Количество",
+      "type": "int"
+    }
+  ]
+}
+

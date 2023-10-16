@@ -1,0 +1,22 @@
+{
+  "name": "101",
+  "columns": [
+    {
+      "name": "№",
+      "type": "int"
+    },
+    {
+      "name": "Имя",
+      "type": "string"
+    },
+    {
+      "name": "Фамилия",
+      "type": "string"
+    },
+    {
+      "name": "Почта",
+      "type": "string"
+    }
+  ]
+}
+
